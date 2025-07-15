@@ -1,10 +1,11 @@
-Cláudia Heleno - Professora & Desenvolvedora apaixonada por tecnologia!!
+# Cláudia Heleno - Professora & Desenvolvedora apaixonada por tecnologia!!
 
-Sou a Professora Cláudia Heleno, educadora e desenvolvedora que ama ensinar e aprender. Desde cedo, me encantei pelo mundo da programação e pela transformação que a tecnologia pode gerar na vida das pessoas.
+Sou a Professora Cláudia Heleno, formada em Análise e Desenvolvimento de Sistemas e licenciada em Matemática.
+Tenho pós-graduação em Docência no Ensino Superior e MBA em Tecnologia para Negócios: AI, Data Science e Big Data.
 
-Minha jornada começou quando descobri que podia transformar ideias em códigos, um processo parecido com montar um quebra-cabeça onde cada peça tem seu lugar. A emoção de ajudar alunos a encontrarem suas próprias soluções é o que me motiva todos os dias.
+Minha paixão é ensinar e desenvolver soluções tecnológicas que fazem a diferença. Desde cedo, me encantei pelo mundo da programação e pela transformação que a tecnologia pode gerar na vida das pessoas.
 
-Atuo com desenvolvimento web, ciência de dados e algoritmos, mas meu maior foco é compartilhar conhecimento e colaborar com a comunidade de código aberto.
+Atuo com desenvolvimento web, ciência de dados e algoritmos, sempre com foco em compartilhar conhecimento e colaborar com a comunidade de código aberto.
 
 ## 💻 Tecnologias e Ferramentas
 
