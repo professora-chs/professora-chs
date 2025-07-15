@@ -1,32 +1,45 @@
-Olá, eu sou a Professora Cláudia Heleno! 👋
+Cláudia Heleno - Professora & Desenvolvedora apaixonada por tecnologia!!
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonada por ensinar, programar e contribuir para a comunidade de código aberto. Aqui você encontrará uma variedade de projetos que mostram minhas habilidades e interesses.
+Sou a Professora Cláudia Heleno, educadora e desenvolvedora que ama ensinar e aprender. Desde cedo, me encantei pelo mundo da programação e pela transformação que a tecnologia pode gerar na vida das pessoas.
 
-Sobre Mim
+Minha jornada começou quando descobri que podia transformar ideias em códigos, um processo parecido com montar um quebra-cabeça onde cada peça tem seu lugar. A emoção de ajudar alunos a encontrarem suas próprias soluções é o que me motiva todos os dias.
 
-- 🌱 Atualmente estou aprendendo estruturas de dados e algoritmos avançados.
-- 👨‍🏫 Adoro ensinar e compartilhar conhecimento com outras pessoas.
-- 🔭 Estou trabalhando em vários projetos de código aberto para ajudar a comunidade.
+Atuo com desenvolvimento web, ciência de dados e algoritmos, mas meu maior foco é compartilhar conhecimento e colaborar com a comunidade de código aberto.
 
+## 💻 Tecnologias e Ferramentas
 
-Linguagens e Ferramentas
+### Linguagens
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
 
-- **Linguagens:** Python, JavaScript, Java, C++
-- **Desenvolvimento Web:** HTML, CSS, React, Node.js
-- **Ciência de Dados:** Pandas, NumPy, Matplotlib, Scikit-Learn
-- **Controle de Versão:** Git, GitHub
-- **Outras Ferramentas:** Docker, Kubernetes, Jenkins
+### Desenvolvimento Web
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
+### Ciência de Dados, IA e Banco de Dados
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/-Cassandra-1283A2?style=flat-square&logo=apachecassandra&logoColor=white)
+![Modelagem de Dados](https://img.shields.io/badge/Modelagem_de_Dados-0A0A0A?style=flat-square&logo=erlang&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-FF6F61?style=flat-square&logo=databricks&logoColor=white)
+![IA](https://img.shields.io/badge/IA-5C2D91?style=flat-square&logo=artificialintelligence&logoColor=white)
 
+### Redes e Infraestrutura
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0E1?style=flat-square&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/-Packet_Tracer-F87C20?style=flat-square&logo=cisco&logoColor=white)
 
-Entre em Contato
+### DevOps e Ferramentas
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-- 📧 Email: professora.chs@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/claudia-heleno
-
-
-Estatísticas do GitHub
-
-![Estatísticas do GitHub da Professora CHS](https://github-readme-stats.vercel.app/api?username=professora-chs&show_icons=true&theme=radical)
-
-Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma dúvida ou ideias de colaboração.
