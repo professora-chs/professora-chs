@@ -1,13 +1,37 @@
-# Cláudia Heleno - Professora & Desenvolvedora apaixonada por tecnologia!!
+# Cláudia Heleno - Professora & Desenvolvedora apaixonada por tecnologia!! 
 
-Sou a Professora Cláudia Heleno, formada em Análise e Desenvolvimento de Sistemas e licenciada em Matemática.
+Olá! Sou a Professora Cláudia Heleno, formada em Análise e Desenvolvimento de Sistemas e licenciada em Matemática.
 Tenho pós-graduação em Docência no Ensino Superior e MBA em Tecnologia para Negócios: AI, Data Science e Big Data.
 
 Minha paixão é ensinar e desenvolver soluções tecnológicas que fazem a diferença. Desde cedo, me encantei pelo mundo da programação e pela transformação que a tecnologia pode gerar na vida das pessoas.
 
 Atuo com desenvolvimento web, ciência de dados e algoritmos, sempre com foco em compartilhar conhecimento e colaborar com a comunidade de código aberto.
 
-## 💻 Tecnologias e Ferramentas
+## Redes Sociais
+
+<div>
+  <a href="https://www.linkedin.com/in/claudia-heleno" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:professora.chs@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+## Conhecimento
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Prof-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Prof-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Prof-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Prof-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Prof-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Prof-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Prof-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+---
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -43,4 +67,8 @@ Atuo com desenvolvimento web, ciência de dados e algoritmos, sempre com foco em
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+---
+
+
 
