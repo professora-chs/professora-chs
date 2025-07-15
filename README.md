@@ -68,7 +68,5 @@ Atuo com desenvolvimento web, ciência de dados e algoritmos, sempre com foco em
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
----
-
 
 
