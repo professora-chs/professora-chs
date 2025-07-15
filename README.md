@@ -1,11 +1,22 @@
-# Cláudia Heleno - Professora & Desenvolvedora apaixonada por tecnologia!! 
+# Olá eu sou Cláudia Heleno - Professora & Desenvolvedora!! 
 
-Olá! Sou a Professora Cláudia Heleno, formada em Análise e Desenvolvimento de Sistemas e licenciada em Matemática.
-Tenho pós-graduação em Docência no Ensino Superior e MBA em Tecnologia para Negócios: AI, Data Science e Big Data.
+ 
+💡 ***“A tecnologia transforma o mundo. A educação transforma pessoas. Eu acredito na união dessas forças para criar real impacto.”***
 
-Minha paixão é ensinar e desenvolver soluções tecnológicas que fazem a diferença. Desde cedo, me encantei pelo mundo da programação e pela transformação que a tecnologia pode gerar na vida das pessoas.
+Sou movida pela **curiosidade**, pelo **aprendizado contínuo** e pela vontade de **compartilhar conhecimento**.  
+Aqui, registro minha jornada como **professora** e **desenvolvedora** — transformando teoria em prática, desafios em soluções e sonhos em projetos reais.
 
-Atuo com desenvolvimento web, ciência de dados e algoritmos, sempre com foco em compartilhar conhecimento e colaborar com a comunidade de código aberto.
+Minha paixão é **ensinar** e criar **soluções tecnológicas** que realmente impactem o dia a dia das pessoas. Desde cedo, me encantei pelo mundo da **programação** e pelo poder transformador da **tecnologia**.  
+Atuo nas áreas de **desenvolvimento web**, **ciência de dados** e **algoritmos**, sempre com foco em colaborar com a **comunidade de código aberto** e fomentar o **aprendizado coletivo**.
+
+
+Seja muito bem-vindo(a) ao meu espaço no GitHub! Vamos **codar, ensinar e evoluir juntos**! 🚀❤️
+
+## Sobre Mim
+- 🌐 Formada em **Análise e Desenvolvimento de Sistemas**  
+- 📚 Licenciatura em **Matemática**  
+- 🎓 Pós-graduação em **Docência no Ensino Superior**  
+-  💻 MBA em **Tecnologia para Negócios: AI, Data Science e Big Data**
 
 ## Redes Sociais
 
@@ -18,6 +29,14 @@ Atuo com desenvolvimento web, ciência de dados e algoritmos, sempre com foco em
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
+
+## 📊 ⭐ Estatísticas do GitHub
+
+![Cláudia Heleno's GitHub stats](https://github-readme-stats.vercel.app/api?username=professora-chs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professora-chs&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ## Conhecimento
 
