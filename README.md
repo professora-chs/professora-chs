@@ -1,7 +1,7 @@
 # Olá eu sou Cláudia Heleno - Professora & Desenvolvedora!! 
 
  
-💡 ***“A tecnologia transforma o mundo. A educação transforma pessoas. Eu acredito na união dessas forças para criar real impacto.”***
+“A tecnologia transforma o mundo. A educação transforma pessoas. Eu acredito na união dessas forças para criar real impacto.”***
 
 Sou movida pela **curiosidade**, pelo **aprendizado contínuo** e pela vontade de **compartilhar conhecimento**.  
 Aqui, registro minha jornada como **professora** e **desenvolvedora** — transformando teoria em prática, desafios em soluções e sonhos em projetos reais.
